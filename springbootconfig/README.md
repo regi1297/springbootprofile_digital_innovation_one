@@ -3,7 +3,7 @@
 
 Projeto desenvolvido do tópico Exercício juntos, referente às parte 1 e 2 da aula sobre  **Profiles e Configurações com Spring Boot**.
 
-Na aula, foram desenvolvidos os seguintes passos:
+Foram desenvolvidos os seguintes passos:
 
 * Criação do projeto com spring.initialzr e importação na IDE.
 * Criação de arquivos application.properties para dev e prod.

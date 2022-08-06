@@ -18,9 +18,9 @@ public class SistemaUsuario implements CommandLineRunner {
 	}
 	private Usuario criarUsuarioGleyson() {
 		Usuario usuario = new Usuario();
-		usuario.setEmail("gleyson@dio.com.br");
-		usuario.setLogin("gleyson");
-		usuario.setNomeCompleto("GLEYSON SAMPAIO");
+		usuario.setEmail("reginaldo@dio.com.br");
+		usuario.setLogin("reginaldo");
+		usuario.setNomeCompleto("REGINALDO MIRANDA");
 		usuario.setSenha("diospringjpa");
 		return usuario;
 	}

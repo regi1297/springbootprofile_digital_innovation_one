@@ -11,9 +11,9 @@ public class SistemaUsuario implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		Usuario usuario = new Usuario();
-		usuario.setEmail("gleyson@dio.com.br");
-		usuario.setLogin("gleyson");
-		usuario.setNomeCompleto("GLEYSON SAMPAIO");
+		usuario.setEmail("reginaldo@dio.com.br");
+		usuario.setLogin("reginaldo");
+		usuario.setNomeCompleto("REGINALDO MIRANDA");
 		usuario.setSenha("diospringjpa");
 		//repositório de persistência ??
 	}
