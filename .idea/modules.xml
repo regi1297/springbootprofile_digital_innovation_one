@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootconfig/springbootconfig.iml" filepath="$PROJECT_DIR$/springbootconfig/springbootconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootconfig-parte3-yml/springbootconfig (1).iml" filepath="$PROJECT_DIR$/springbootconfig-parte3-yml/springbootconfig (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootconfig-parte5-yml/springbootconfig (2).iml" filepath="$PROJECT_DIR$/springbootconfig-parte5-yml/springbootconfig (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springbootprofile_digital_innovation_one-master.iml" filepath="$PROJECT_DIR$/.idea/springbootprofile_digital_innovation_one-master.iml" />
+    </modules>
+  </component>
+</project>
