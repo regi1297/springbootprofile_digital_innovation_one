@@ -1,7 +1,7 @@
 <h2>Exercício Juntos - Spring Boot: Profiles e Configurações</h2>
 
 
-Projeto desenvolvido no tópico Exercício juntos, referente às partes 3 e 4 da aula sobre  **Profiles e Configurações com Spring Boot**, gravado para a Digital Innovation One.
+Projeto desenvolvido no tópico Exercício juntos, referente às partes 3 e 4 da aula sobre  **Profiles e Configurações com Spring Boot**,
 
 Na parte 3 da aula, foram desenvolvidos os seguintes passos:
 
